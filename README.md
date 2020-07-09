@@ -1,4 +1,4 @@
-# inter species communication
+# inter-species communication
 We wanna talk to animals, live together
 
 Probably, it's my purpose of life :)
