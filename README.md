@@ -1,5 +1,5 @@
 # communication-with-animals
-We wanna talk to animals, live togather
+We wanna talk to animals, live together
 
 Probably, it's my purpose of life :)
 
