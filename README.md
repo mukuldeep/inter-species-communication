@@ -4,7 +4,7 @@ We wanna talk to animals, live together
 Probably, it's my purpose of life :)
 
 We are approximately 8.7 Millions species of organism living on the earth today among more than few trillions of species. Less than 1% of all species ever on the earth are living. 
-https://en.wikipedia.org/wiki/Global_biodiversity(For details)
+https://en.wikipedia.org/wiki/Global_biodiversity (For details)
 However, the total number of species for some taxa may be much higher.
 10–30 million insects
 5–10 million bacteria
