@@ -19,4 +19,32 @@ Humans have always been excited to find and communicate with some unknown uncert
 We wanna develop a system to communicate with animals, like we have developed translator to communicate between human from different lingual background.
 
 There are thousands of things to do and design, every thing will be updated in this respository. 
-If you have any Idea, suggestions, or have already done something, or have similar mind set, please donot hesitate to share with us. You can commit here or send over email to mukul0018@gmail.com / mukul@raabnits.com .
+If you have any Idea, suggestions, or have already done something, or have similar mind set, please donot hesitate to share with us. You can commit here or send over email to mukul0018@gmail.com / mukul@offlinew.com
+
+# Approach
+
+There are multiple possible approaches, we will follow some of them in order to obtain optimal result. An overview as follows - 
+
+
+    1. Tools creation
+        1.1. ✅ tools to chunk whole speech to word or syllable
+        1.2. data collection and refinement tool
+    2. Data collection
+        2.1. requirement analysis
+        2.2. format and store
+    3. training
+    4. testing
+    5. expand to more species or generalising
+    6. open for normal use    
+ 
+
+### 1.1. Tools for chunking whole speech to word or syllable
+
+Notebooks focusing on word level chunking -
+
+1. ***Interspecies_communication.ipynb***  initial word chunking tool
+2. ***Interspecies_communication_word_chunking.ipynb*** bird specific sound chunking for candidate words
+3. ***Interspecies_communication_word_chunking_human.ipynb*** human speech word chunking to validate algo used to chunk other unknown species sounds
+
+# Data Collection and formatting 
+sorry! kal likhunga
