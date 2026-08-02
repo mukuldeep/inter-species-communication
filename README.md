@@ -47,4 +47,36 @@ Notebooks focusing on word level chunking -
 3. ***Interspecies_communication_word_chunking_human.ipynb*** human speech word chunking to validate algo used to chunk other unknown species sounds
 
 # Data Collection and formatting 
-sorry! kal likhunga
+First We need to consider how different animal communicate. Be a bit more inclusive while collecting data regd. unknown language discovery! What I mean by that, Not all animal uses only sound as medium of communication, many of them uses body language, situation etc. like cats, dogs uses body languages as part of their communication apart from sound. Bees uses encoded directional vibration to tell location of food source. Dolphons can see structures through sound, kinda echolocation. Whales uses ticks to communicate with some hundreds miles apart. Dolphins, whales and orca may have organ to convert audio to visual inside their brain. Ants uses antenna + chem trails. And so on.
+
+Like humans, animals may have different language based on location. Languages, gestures may depend on interaction feasibility developed by local members. So, we will be collecting location information as well.  
+
+What we will be considering here is **"Audio + Few"** strategy.
+
+**Few** includes **Body language**, **facial expression**, **situation**,  **interaction**,  **location**
+
+### how to contribute to data collection
+Contribute to data, if you have audio + **FEW** even better video + **FEW**, please drop a mail to mukul@offlinew.com
+
+All data collected will be kept public.
+
+
+
+
+# How to run .ipynb file
+Well! you can setup on local machine or you can run on Google Colab.
+### Run on Google Colab
+
+ - Download the xxxx.ipynb file you want to run
+ - Upload to your Google Drive
+ - open the file in colab
+
+once connected, follow the notebook. install required libraries. mount drive and upload required files, such as audio file or other required files. Adjust file paths if required.
+
+Hopefully Done!
+
+
+# Contribute 
+ - Contribute to data collection and research
+ - Contribute compute and GPU: please drop a mail
+ - Economical Contribution : BitCoin Address **1AniMLHBBhrw7WbBZifUd7v396KVeRBThQ**
